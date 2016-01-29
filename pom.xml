@@ -22,8 +22,8 @@
        -->
     <properties>
         <!-- The following are default values for data location and Alfresco version.
-             Uncomment if you need to change
-        <alfresco.version>${alfresco.community.default.version}</alfresco.version> -->
+             Uncomment if you need to change -->
+        <alfresco.version>5.1.d-EA</alfresco.version>
 
         <!-- This control the root logging level for all apps uncomment and change, defaults to WARN
             <app.log.root.level>WARN</app.log.root.level>
@@ -57,7 +57,7 @@
             <dependency>
                 <groupId>${alfresco.groupId}</groupId>
                 <artifactId>alfresco-platform-distribution</artifactId>
-                <version>${alfresco.version}</version>
+                <version>5.1.d-EA</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
