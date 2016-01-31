@@ -36,14 +36,14 @@
     <theme-border-5>1px solid #c2c2c2</theme-border-5>
     <less-variables>
 		<!-- Only for Alfresco 5.x onwards and latest Aikau version -->
-		@header-background-color: #455A64;
+		@header-background-color: #F79F30;
 		@header-font-color: #ccc;
 		@header-hover-background-color: orange;
 		@header-hover-font-color: green;
-		@header-focus-background-color: white;
+		@header-focus-background-color: #ffa500;
 		@header-focus-font-color: red;
 		@header-menubar-font-color: blue;
-		@header-dropdown-menu-font-color: white;
+		@header-dropdown-menu-font-color: blue;
 		</less-variables>
 		</css-tokens>
 </theme>
